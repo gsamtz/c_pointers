@@ -20,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		21CA8ED82CE6E319007EE477 /* Advanced_C_Pointers */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Advanced_C_Pointers; sourceTree = BUILT_PRODUCTS_DIR; };
+		21CA8EE22CE6E9F6007EE477 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -45,6 +46,7 @@
 			isa = PBXGroup;
 			children = (
 				21CA8EDA2CE6E319007EE477 /* Advanced_C_Pointers */,
+				21CA8EE22CE6E9F6007EE477 /* .gitignore */,
 				21CA8ED92CE6E319007EE477 /* Products */,
 			);
 			sourceTree = "<group>";
