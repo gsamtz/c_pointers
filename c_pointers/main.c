@@ -6,9 +6,11 @@
 //
 
 #include <stdio.h>
+#include "multiple_indirection.h"
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("Hello, World!\n");
+    multiple_indirection_int();
+    multiple_indirection_char();
+    
     return 0;
 }
