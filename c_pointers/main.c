@@ -9,7 +9,6 @@
 #include "multiple_indirection.h"
 
 int main(int argc, const char * argv[]) {
-    multiple_indirection_int();
     multiple_indirection_char();
     
     return 0;

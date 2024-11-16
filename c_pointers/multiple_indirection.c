@@ -7,13 +7,8 @@
 
 #include "multiple_indirection.h"
 
-int *data[LENGTH];
 char *words[LENGTH];
 
-void multiple_indirection_int(void) {
-    printf("Hello ");
-}
-
 void multiple_indirection_char(void) {
-    printf("world!\n");
+    printf("Hello world!\n");
 }

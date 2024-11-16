@@ -12,7 +12,6 @@
 
 #define LENGTH 3
 
-void multiple_indirection_int(void);
 void multiple_indirection_char(void);
 
 #endif /* multiple_indirection_h */
